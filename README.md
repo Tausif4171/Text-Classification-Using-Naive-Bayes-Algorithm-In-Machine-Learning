@@ -6,15 +6,10 @@ on 20 Newsgroup Dataset. And also to show the final text classifies result we ha
 in the Django framework.
 
 Packages used here are:
-
 1. sklearn
-
 2. Tfidf Vectorizer
-
 3. Multinomial Naive Bayes Classifier
- 
 4. Pipeline
- 
 5. Metrics
 
 ⮚ Technology used- Python, Django, HTML, CSS, Bootstarap4.
