@@ -1,0 +1,18 @@
+{% extends 'bonge/base.html' %}
+{% load static %}
+
+{% block content %}
+
+</br>
+<div class="col-md-6 col-md-offset-2" style="padding-top: 90px">
+<div class="card mb-6">
+  <img src="{% static 'bonge/images/2.png' %}" class="card-img-top" alt="...">
+  <div class="card-body">
+  	<h5 class="card-title text-primary" >What is project about</h5>
+    <p class="card-text" id="about-project">This is text classification through Naive Bayes Algorithm which is Machine Learning for text,
+      where user can input text to classify the category of text like alt.atheism, soc.religion.christian, comp.graphics, sci.med and so on. </p>
+    <p class="card-text" id="about-project">The Dataset we are using in this project is 20 Newsgroup Datasets.<br> Thank You:)</p>
+   </div>
+</div>
+
+{% endblock %}
