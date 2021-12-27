@@ -15,6 +15,9 @@ Packages used here are:
 ⮚ Technology used- Python, Django, HTML, CSS, Bootstarap4.
 
 ⮚ Toolused- Visual Studio Code
+
+Project Screenshots :
+
 ![Capture](https://user-images.githubusercontent.com/58526381/147451991-775e862a-86a0-4808-99ba-be9bfe8befcd.PNG)
 
 #KeepLearning #KeepGrowing #KeepEnjoying #KeepSmiling
